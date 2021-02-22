@@ -29,7 +29,7 @@ artifacts {
     archives javadocJar
 }
 
-// To specify a license in the pom:
+// To specify a license in the pom file:
 install {
   repositories.mavenInstaller {
     pom.project {
